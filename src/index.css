@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.input-style {
+    @apply w-80 px-4 py-1.5 border border-gray-300 rounded-[100px] focus:shadow-sm shadow-blue-300 focus:outline-none;
+  }
+  
